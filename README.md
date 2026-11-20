@@ -68,3 +68,4 @@ git push -u origin main
 ```
 
 Replace the remote URL with the repository you created. Before committing, check that `.env` is not listed by `git status --short` and never push your API key. Repository creation and pushing are separate steps; this project setup does not publish anything by itself.
+
